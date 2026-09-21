@@ -4,3 +4,4 @@ while num > 0:
     reverse = reverse * 10 + num % 10
     num = num // 10
 print("Reversed number:", reverse)
+
